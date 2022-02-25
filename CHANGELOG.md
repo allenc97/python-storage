@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+## [2.2.0](https://github.com/googleapis/python-storage/compare/v2.1.0...v2.2.0) (2022-02-25)
+
+
+### Features
+
+* allow no project in client methods using storage emulator ([#703](https://github.com/googleapis/python-storage/issues/703)) ([bcde0ec](https://github.com/googleapis/python-storage/commit/bcde0ec619d7d303892bcc0863b7f977c79f7649))
+
+
+### Documentation
+
+* fixed download_blob_to_file example ([#704](https://github.com/googleapis/python-storage/issues/704)) ([2c94d98](https://github.com/googleapis/python-storage/commit/2c94d98ed21cc768cfa54fac3d734254fc4d8480))
+
 ## [2.1.0](https://github.com/googleapis/python-storage/compare/v2.0.0...v2.1.0) (2022-01-19)
 
 
